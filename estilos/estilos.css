@@ -1,0 +1,11 @@
+body{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#tituloH2{
+    font-weight: bold;
+}
+
+#tituloH3{
+    font-weight: lighter;
+}
